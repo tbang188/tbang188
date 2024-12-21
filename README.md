@@ -10,6 +10,7 @@
 
 <br />
 
+### 🚀 About Me
 I am Nguyen Thanh Bang, a self-taught full-stack web developer with a fervent passion for crafting innovative digital experiences. My expertise lies in seamlessly transforming conceptual ideas into elegant and intuitive user interfaces. I am meticulous in ensuring that every project I undertake adheres to the highest standards of user experience, architectural soundness, and code quality.
 
 
